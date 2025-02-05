@@ -5,6 +5,7 @@ from gtts import gTTS
 import os
 import logging
 import time
+from pydub import AudioSegment
 
 app = Flask(__name__)
 
