@@ -17,7 +17,7 @@ The **Medical Translator App** is a Flask-based web application that enables use
 - 🌍 **Google Translator API** (Text Translation)
 - 🎵 **gTTS** (Text-to-Speech)
 - 🎨 **JavaScript** (Frontend)
-- 🖌 **HTML & CSS** (UI Design)
+- 🖌 **HTML & CSS** (UI Design) 
 
 ## 📥 Installation & Setup
 ### 📌 Prerequisites
